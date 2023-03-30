@@ -1,0 +1,8 @@
+Run these commands on CMD:
+
+1. CD <project-folder>
+2. terraform init
+3. terraform plan
+4. terraform apply
+You can check on AWS the resource created
+5. terraform detroy
